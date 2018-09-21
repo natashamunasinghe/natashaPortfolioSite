@@ -1,0 +1,91 @@
+body {
+ background-color: whitesmoke;
+}
+
+.header {
+  margin-top: 10%;
+}
+
+h2 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 200%;
+}
+
+/* Logo Linkedin Medium items */
+.linkedinlogo {
+  width: 25px;
+}
+
+.mediumlogo {
+  width: 25px;
+}
+
+/* Hero image */
+.heroimage img {
+  max-width: 250px;
+}
+
+/* Main introduction */
+.myintro {
+  font-size: 14pt;
+  background-color: #33A1EE; 
+}
+
+/* Dev tools card */
+.devtools {
+  width: 75px;
+  margin-top: 5%;
+  margin-left: 40%;
+}
+
+/* Education card */
+.education {
+  width: 75px;
+  margin-top: 5%;
+  margin-left: 40%;
+}
+
+/* My work card */
+.mywork {
+  width: 75px;
+  margin-top: 5%;
+  margin-left: 40%;
+}
+
+/* Testimonial content */
+.testimonial {
+  margin-left: 20%;
+  margin-right: 30%;
+}
+
+.testshot {
+  width: 150px;
+  margin-left: 45%; 
+  margin-top: 3%; 
+  margin-bottom: 3%; 
+}
+
+testimonialsub {
+  font-family: 'Qwigley', cursive;
+  font-size: 200%
+
+}
+
+/* Call to action */
+.getintouch {
+  font-size: 14pt;
+  background-color: #ffae1a;
+}
+
+/* Contact form */
+.form {
+    box-sizing: border-box;
+    border-style: solid;
+}
+
+/* Footer */
+.footer {
+  font-size: 10pt;
+  background-color: #33A1EE;
+  
+}
