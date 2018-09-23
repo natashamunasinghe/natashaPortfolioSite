@@ -1,3 +1,5 @@
+**Natasha Munasinghe Portfolio**
+=
 **Portfolio website**
 https://natashamunasinghe.github.io/natashaPortfolioSite/
 
@@ -14,7 +16,7 @@ This is the website that potential recruiters and employers will be using to ass
 I also was focused on highlighting my tech skills as well as the other skills like teamwork, management and communication that I have gained from my previous work experience.
 
 **Functionality/Features**
-*The website including the following features;*
+*The website includes the following features;*
 
 a) responsive and mobile friendly design 
 b) single page website
@@ -66,7 +68,8 @@ I then chose the design and UX of a website I really enjoyed and then built my w
 
 Design images
 
-Colour palette - https://raw.githubusercontent.com/natashamunasinghe/natashaPortfolioSite/master/images/Colourpalette.png
+Colour palette - 
+![alternative text](https://raw.githubusercontent.com/natashamunasinghe/natashaPortfolioSite/master/images/Colourpalette.png)
 
     
 **Wireframes**
@@ -104,8 +107,7 @@ DAYS 4 & 5 - reserved for documentation, presentation preparation and addition o
 
 **Screenshots of Trello board**
 
-https://raw.githubusercontent.com/natashamunasinghe/natashaPortfolioSite/master/images/trello.png    
-
+https://raw.githubusercontent.com/natashamunasinghe/natashaPortfolioSite/master/images/trello.png
 
 UNDERSTANDING OF THE INTERNET
 **Key events in the development of the internet from 1980s to present**
