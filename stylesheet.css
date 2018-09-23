@@ -2,21 +2,34 @@ body {
  background-color: whitesmoke;
 }
 
-.header {
-  margin-top: 10%;
+h1 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 45px;
 }
 
 h2 {
   font-family: 'Dosis', sans-serif;
-  font-size: 200%;
 }
 
-/* Logo Linkedin Medium items */
+#main_intro_header {
+  font-size: 200%;
+
+}
+
+.header {
+  margin-top: 10%;
+}
+
+/* Logo Linkedin Medium Github items */
 .linkedinlogo {
   width: 25px;
 }
 
 .mediumlogo {
+  width: 25px;
+}
+
+.githublogo {
   width: 25px;
 }
 
@@ -27,8 +40,13 @@ h2 {
 
 /* Main introduction */
 .myintro {
-  font-size: 14pt;
+  font-size: 12pt;
   background-color: #33A1EE; 
+}
+
+.testimonialsubheader {
+  font-family: 'Great Vibes', cursive;
+  font-size: 35px;
 }
 
 /* Dev tools card */
@@ -65,12 +83,6 @@ h2 {
   margin-bottom: 3%; 
 }
 
-testimonialsub {
-  font-family: 'Qwigley', cursive;
-  font-size: 200%
-
-}
-
 /* Call to action */
 .getintouch {
   font-size: 14pt;
@@ -83,9 +95,42 @@ testimonialsub {
     border-style: solid;
 }
 
+.mailchimp_button {
+  border-bottom-left-radius: 40%;
+}
+
 /* Footer */
 .footer {
-  font-size: 10pt;
-  background-color: #33A1EE;
-  
+  width: 393px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  list-style: none; 
+}
+
+.footerlinkedin {
+  width: 393px;
+  display: flex;
+  list-style: none; 
+  margin-top: 7.5%;
+  margin-left: 30%;
+}
+
+.footermedium {
+  width: 393px;
+  display: flex;
+  list-style: none; 
+  margin-top: 7.5%;
+}
+
+.footergit {
+  width: 393px;
+  display: flex;
+  list-style: none; 
+  margin-top: 7.5%;
+  margin-right: 25%;
+}
+
+.footernotes {
+ font-size: 12px;
 }
