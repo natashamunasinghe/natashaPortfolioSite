@@ -31,7 +31,7 @@ j) Use of media queries for mobile responsiveness
 h) Use of Google fonts
 
 **Sitemap**
-See attached documents for the sitemap
+See attached document for the sitemap
 
 **Target Audience**
 
@@ -74,10 +74,9 @@ Colour palette -
     
 **Wireframes**
 
-https://raw.githubusercontent.com/natashamunasinghe/natashaPortfolioSite/master/images/wireframe1.png  
+![alternative text](https://raw.githubusercontent.com/natashamunasinghe/natashaPortfolioSite/master/images/wireframe1.png)  
 
-https://raw.githubusercontent.com/natashamunasinghe/natashaPortfolioSite/master/images/wireframe2.png    
-
+![alternative text](https://raw.githubusercontent.com/natashamunasinghe/natashaPortfolioSite/master/images/wireframe2.png)    
 
 **Usability considerations**
 
@@ -107,7 +106,7 @@ DAYS 4 & 5 - reserved for documentation, presentation preparation and addition o
 
 **Screenshots of Trello board**
 
-https://raw.githubusercontent.com/natashamunasinghe/natashaPortfolioSite/master/images/trello.png
+![alternative text](https://raw.githubusercontent.com/natashamunasinghe/natashaPortfolioSite/master/images/trello.png)
 
 UNDERSTANDING OF THE INTERNET
 **Key events in the development of the internet from 1980s to present**
